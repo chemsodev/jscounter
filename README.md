@@ -4,7 +4,7 @@ This is a solution to the [ QR-code-component challenge on Frontend Mentor](http
 U can see the website [here](https://chemsodev.github.io/jscounter/).
 # Overview
 ## Screenshot
-![website screenshoot](Screenshot.png?raw=true "screenshoot")
+![website screenshoot](image.png?raw=true "screenshoot")
 # My process
 ## Built with
 
