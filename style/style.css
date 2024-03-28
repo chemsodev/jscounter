@@ -12,7 +12,7 @@ body {
 }
 
 #container {
-    height: 50vh;
+    height: 25vw;
     width: 40vw;
     position: relative;
     display: flex;
@@ -20,7 +20,7 @@ body {
     justify-content: space-around;
     align-items: center;
     background-color: rgb(0, 42, 255);
-    border-radius: 16px;
+    border-radius: 2vw;
     border:solid 0.5vw rgb(255, 55, 0) ;
     
 }
@@ -28,22 +28,24 @@ body {
 #btns {
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 button {
     background-color: rgb(255, 55, 0);
     border: solid 0.2vw rgb(50, 50, 50);
     border-radius: 1.5vw;
-    font-weight: bold;
+    font-weight:bolder;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1.5vw;
-    width: 9vw;
+    font-size: 1.7vw;
+    width: 9.1vw;
     height: 4vw;
 }
-
+button:hover{
+    background-color:rgba(190, 41, 0, 0.931);
+}
 #count {
     font-size: 12vw;
     font-family:'Digital';
