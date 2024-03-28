@@ -1,5 +1,6 @@
 # Chemso - QR-code-component
 This is my first mini project using js it's basically a counter i tried to use things that i learned recently.
+
 U can see the website [here](https://chemsodev.github.io/jscounter/).
 # Overview
 ## Screenshot
