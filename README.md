@@ -1,6 +1,5 @@
 # Chemso - QR-code-component
-This is a solution to the [ QR-code-component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
-
+This is a solution my first mini project using js it's basically a counter i tried to use things that i learned recently.
 U can see the website [here](https://chemsodev.github.io/jscounter/).
 # Overview
 ## Screenshot
